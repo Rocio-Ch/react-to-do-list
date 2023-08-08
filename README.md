@@ -1,4 +1,4 @@
-# Proyecto Mercado Liebre
+# Proyecto To do list con React & Vite
 
 Me llamo Rocío Magalí Chaparro, tengo 31 años, soy de La Plata y estoy estudiando para convertirme en desarrolladora Frontend Developer. En esta ocasión les presento el primer proyecto del primer módulo de ReactJs en Ada ITW.
 ***
