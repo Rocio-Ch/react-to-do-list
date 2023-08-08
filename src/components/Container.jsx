@@ -11,7 +11,7 @@ export default function Container() {
     const [filterTasks, setFilterTasks] = useState("")
 
     return (
-        <main className="flex flex-col flex-grow pb-[100px] bg-[#ffffff4d]">
+        <main className="flex flex-col flex-grow pb-[50px] bg-[#ffffff4d]">
             <FormSelectContainer  setAllTasks={setAllTasks} allTasks={allTasks} filterTasks={filterTasks} setFilterTasks={setFilterTasks} />
             <TaskContainer allTasks={allTasks} setAllTasks={setAllTasks} filterTasks={filterTasks} />
         </main>
